@@ -24,7 +24,7 @@ description: "An amazing website."
 url: "http://www.opa-x.com"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "opa-x/opa-x.github.io"
-teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser: "/assets/images/teaser.jpeg"
 logo: "/assets/images/icon-128x128.png"
 masthead_title: "hatiolab.com" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -108,7 +108,7 @@ analytics:
 author:
   name: "Hatiolab"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
+  bio: "하티오랩은 제조 혁신이 가져올 더 나은 세상을 꿈꿉니다."
   location: "Seoul, Korea."
   email:
   links:
