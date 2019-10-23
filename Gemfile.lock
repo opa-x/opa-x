@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    minimal-mistakes-jekyll (4.17.1)
+    opa-x.github.io (1.0.0)
       jekyll (>= 3.6, < 5.0)
       jekyll-feed (~> 0.1)
       jekyll-gist (~> 1.5)
@@ -85,7 +85,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
-  minimal-mistakes-jekyll!
+  opa-x.github.io!
   rake (~> 10.0)
 
 BUNDLED WITH

@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale: "en-US"
@@ -26,7 +26,7 @@ baseurl: # the subpath of your site, e.g. "/blog"
 repository: "opa-x/opa-x.github.io"
 teaser: "/assets/images/teaser.png"
 logo: "/assets/images/icon-128x128.png"
-masthead_title: "hatiolab.com" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title: "OPAONE"
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
@@ -117,16 +117,16 @@ author:
       url: mailto:heartyoh@hatiolab.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.hatiolab.com"
+      url: "https://www.hatiolab.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/hatiolab"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/hatiolab"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/heartyoh"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -136,13 +136,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/hatiolab"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://facebook.com/hatiolab"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/opa-x"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
