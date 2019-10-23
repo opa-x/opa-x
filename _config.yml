@@ -19,12 +19,12 @@ locale: "en-US"
 title: "OPAONE"
 title_separator: "-"
 subtitle: "Reimagining Logistics" # site tagline that appears below site title in masthead
-name: "hatiolab.com"
+name: "OPAONE"
 description: "An amazing website."
 url: "http://www.opa-x.com"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "opa-x/opa-x.github.io"
-teaser: "/assets/images/teaser.jpeg"
+teaser: "/assets/images/teaser.png"
 logo: "/assets/images/icon-128x128.png"
 masthead_title: "hatiolab.com" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -84,9 +84,9 @@ naver_site_verification:
 
 # Social Sharing
 twitter:
-  username:
+  username: "hatiolab"
 facebook:
-  username:
+  username: "hatiolab"
   app_id:
   publisher:
 og_image: # Open Graph/Twitter default site image
