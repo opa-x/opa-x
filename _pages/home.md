@@ -8,27 +8,27 @@ header:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  하티오랩은 제조 혁신이 가져올 더 나은 세상을 꿈꿉니다.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.1">Latest release v4.17.1</a></small>
+  HATIO operates a warehousing and distribution network through one cloud-based dashboard that gives brand true visibility and control of their inventory.<br />
+  <small><a href="https://kimeda.opa-x.com">Demo Site</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    alt: "Infrastructure Network"
+    title: "Infrastructure Network"
+    excerpt: "One SEA network of vetted 3PL offering warehousing, freight and 3PL services."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    alt: "Software Platform"
+    title: "Software Platform"
+    excerpt: "One cloud based software providing visibility on product movement across our entire network."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    alt: "Partenered Service"
+    title: "Partenered Service"
+    excerpt: "One expert logistics team to manage and optimise your operations with one SOP and one single point of contact."
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
