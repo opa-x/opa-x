@@ -325,3 +325,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Manifest settings
+manifest_name: OPAONE
+manifest_short_name: OPAONE
+manifest_lang: en
+manifest_background_color: white
+manifest_short_name:
+manifest_display: standalone
