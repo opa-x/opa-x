@@ -2,6 +2,35 @@
 title: "Overview"
 permalink: /features/overview/
 excerpt: "Smart Warehouse Control System"
+feature_row:
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: "Control Dashboard"
+    title: "Control Dashboard"
+    excerpt: "Operations performance management dashboard for better control any device, anytime."
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-responsive-feature.png
+    alt: "Inventory Management"
+    title: "Inventory Management"
+    excerpt: "Inventory management functionalities with barcode label management as product tagging."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "Order Management"
+    title: "Order Management"
+    excerpt: "Order management module to support multiple order lifecycle flows and stages."
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "Handheld Device Management"
+    title: "Handheld Device Management"
+    excerpt: "Handheld devices work environment to encourage productivity. BYOD supported."
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 last_modified_at: 2019-10-24T00:00:00-00:00
 redirect_from:
   - /theme-setup/
@@ -37,11 +66,4 @@ toc: true
 
 ## Key Modules
 
-- Control Dashboard
-  - Operations performance management dashboard for better control any device, anytime.
-- Inventory Management
-  - Inventory management functionalities with barcode label management as product tagging.
-- Order Management
-  - Order management module to support multiple order lifecycle flows and stages.
-- Handheld Device Management
-  - Handheld devices work environment to encourage productivity. BYOD supported.
+{% include feature_row %}
