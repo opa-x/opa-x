@@ -190,6 +190,9 @@ kramdown:
 
 # Collections
 collections:
+  features:
+    output: true
+    permalink: /:collection/:path/
   docs:
     output: true
     permalink: /:collection/:path/
@@ -205,6 +208,18 @@ collections:
 
 # Defaults
 defaults:
+  # _features
+  - scope:
+      path: "_features"
+      type: features
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "features"
   # _posts
   - scope:
       path: ""

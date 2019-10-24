@@ -19,16 +19,29 @@ foo:
 
 # main links
 main:
+  - title: Features
+    url: /features/overview/
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
   - title: "About"
     url: /about/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
+
+# features links
+features:
+  - title: Features
+    children:
+      - title: Overview
+        url: /features/overview/
+      - title: Process
+        url: /features/process/
+      - title: Function List
+        url: /features/function-list/
 
 # documentation links
 docs:
